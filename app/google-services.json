@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560003780283",
+    "project_id": "challenge8-429008",
+    "storage_bucket": "challenge8-429008.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560003780283:android:a028cd7c46bf451ec3639e",
+        "android_client_info": {
+          "package_name": "com.listing.movie.flavor1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCijLeDhE1GoUlcJIICk__1wg4T-W-fWyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
