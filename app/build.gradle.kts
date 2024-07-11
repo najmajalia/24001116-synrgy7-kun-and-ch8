@@ -26,26 +26,26 @@ android {
             dimension = "version"
             applicationIdSuffix = ".flavor1"
         }
-        create("flavor2") {
-            dimension = "version"
-            applicationIdSuffix = ".flavor2"
-        }
-        create("flavor3") {
-            dimension = "version"
-            applicationIdSuffix = ".flavor3"
-        }
-        create("flavor4") {
-            dimension = "version"
-            applicationIdSuffix = ".flavor4"
-        }
-        create("flavor5") {
-            dimension = "version"
-            applicationIdSuffix = ".flavor5"
-        }
-        create("flavor6") {
-            dimension = "version"
-            applicationIdSuffix = ".flavor6"
-        }
+//        create("flavor2") {
+//            dimension = "version"
+//            applicationIdSuffix = ".flavor2"
+//        }
+//        create("flavor3") {
+//            dimension = "version"
+//            applicationIdSuffix = ".flavor3"
+//        }
+//        create("flavor4") {
+//            dimension = "version"
+//            applicationIdSuffix = ".flavor4"
+//        }
+//        create("flavor5") {
+//            dimension = "version"
+//            applicationIdSuffix = ".flavor5"
+//        }
+//        create("flavor6") {
+//            dimension = "version"
+//            applicationIdSuffix = ".flavor6"
+//        }
 
     }
 
